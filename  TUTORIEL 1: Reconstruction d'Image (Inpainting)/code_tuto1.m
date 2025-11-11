@@ -144,4 +144,4 @@ fprintf('PSNR : %.2f dB\n', psnr);
 fprintf('Temps : %.2f s\n', temps);
 fprintf('Itérations : %d\n', info.iter);
 
-fprintf('\n=== FIN DU TUTORIEL ===\n');*************************
+fprintf('\n=== FIN DU TUTORIEL ===\n');
